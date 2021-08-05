@@ -1,11 +1,11 @@
 # chat-vue
 
-## Project setup
+## Project setup for server and app
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles app
 ```
 npm run serve
 ```
@@ -20,5 +20,7 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Compiles server
+```
+npm start
+```
